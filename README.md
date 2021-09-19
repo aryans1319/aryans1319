@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryans1319" alt="aryans1319" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aryansh87214772" target="blank"><img src="https://img.shields.io/twitter/follow/aryansh87214772?logo=twitter&style=for-the-badge" alt="aryansh87214772" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryanshaw_" target="blank"><img src="https://img.shields.io/twitter/follow/aryanshaw_?logo=twitter&style=for-the-badge" alt="aryanshaw_" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aryansh87214772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanshaw_" height="30" width="40" /></a>
+<a href="https://twitter.com/aryanshaw_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanshaw_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aryans1319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryans1319" height="30" width="40" /></a>
 <a href="https://instagram.com/aryans_1319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryans_1319" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aryans1319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryans1319" height="30" width="40" /></a>
