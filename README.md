@@ -7,24 +7,27 @@
 </h1>
 <br>
   <a href="https://twitter.com/AryanShaw_">
-    <img align="left" alt="Aryan Shaw| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img align="left" alt="Aryan Shaw| Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/aryans1319/">
-    <img align="left" alt="Aryan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img align="left" alt="Aryan's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   <a href="https://open.spotify.com/user/z0stitqrmy6wak5ilurnuwnbq">
-    <img align="left" alt="Aryan's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+    <img align="left" alt="Aryan's Spotify" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
   <a href="https://leetcode.com/AryaN_s_1319/">
-    <img align="left" alt="Aryan's leetcode" width="22px" src="https://github.com/aryans1319/aryans1319/blob/main/lc%20logo.png" />
+    <img align="left" alt="Aryan's leetcode" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/lc%20logo.png" />
   </a>
   <a href="https://auth.geeksforgeeks.org/user/cazipher13/profile">
-    <img align="left" alt="Aryan's GFG" width="22px" src="https://github.com/aryans1319/aryans1319/blob/main/gfgf%20logo.png" />
+    <img align="left" alt="Aryan's GFG" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/gfgf%20logo.png" />
   </a>
-  <br />hi, i'm Aryan Shaw, a passionate self-taught programmer and a full stack web developer from india. i love problem-solving and have solved over 900+ problems on various coding platforms , i also have a keen interest in web development and competitive programming
+  <br>
+  <br>
+  hi, i'm Aryan Shaw, a passionate self-taught programmer and a full stack web developer from india. i love problem-solving and have solved over 900+ problems on various coding platforms , i also have a keen interest in web development and competitive programming
 
-   i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-  <img align="right" alt="GIF" src="https://github.com/aryans1319/aryans1319/blob/main/gg.gif?raw=true" width="650" height="700" />
+  i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+  
+  <img align="right" alt="GIF" src="https://github.com/aryans1319/aryans1319/blob/main/gg.gif?raw=true" width="500" height="600" />
 
 - 💼 any freelance work? do reach, [email](mailto:aryan4p130202@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
