@@ -21,13 +21,10 @@
   <a href="https://auth.geeksforgeeks.org/user/cazipher13/profile">
     <img align="left" alt="Aryan's GFG" width="22px" src="https://github.com/aryans1319/aryans1319/blob/main/gfgf%20logo.png" />
   </a>
-  <br />
+  <br />hi, i'm Aryan Shaw, a passionate self-taught programmer and a full stack web developer from india. i love problem-solving and have solved over 900+ problems on various coding platforms , i also have a keen interest in web development and competitive programming
 
-hi, i'm [Aryan Shaw], a passionate self-taught programmer and a full stack web developer from india. i love problem-solving and have solved over 900+ problems on various coding platforms , i also have a keen interest in
-web development and competitive programming
-
-i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-  <img align="right" alt="GIF" src="https://github.com/aryans1319/aryans1319/blob/main/gg.gif?raw=true" width="500" height="400" />
+   i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+  <img align="right" alt="GIF" src="https://github.com/aryans1319/aryans1319/blob/main/gg.gif?raw=true" width="650" height="700" />
 
 - 💼 any freelance work? do reach, [email](mailto:aryan4p130202@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
