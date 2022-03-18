@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/aryans1319/">
     <img align="left" alt="Aryan's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://open.spotify.com/user/z0stitqrmy6wak5ilurnuwnbq">
-    <img align="left" alt="Aryan's Spotify" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
   <a href="https://leetcode.com/AryaN_s_1319/">
     <img align="left" alt="Aryan's leetcode" width="35px" src="https://github.com/aryans1319/aryans1319/blob/main/lc%20logo.png" />
   </a>
@@ -42,11 +39,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-## Vibin' to🎧 :
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=z0stitqrmy6wak5ilurnuwnbq&redirect=true)
 
 <br>
 
