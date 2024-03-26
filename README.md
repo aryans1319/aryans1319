@@ -1,13 +1,13 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Aryan Shaw! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
+<p><em>SDE Intern at <a href="https://dailype.in/">DailyPe(YC W23)
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AryanShaw_?label=Follow)](https://twitter.com/intent/follow?screen_name=AryanShaw_)
+[![Linkedin: anmol](https://img.shields.io/badge/-aryan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryans1319/)](https://www.linkedin.com/in/aryans1319/)
+![GitHub followers](https://img.shields.io/github/followers/aryans1319?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://www.linkedin.com/in/aryans1319/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
@@ -15,32 +15,24 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+<a href="https://calendly.com/aryan4p130202/chit-tech-chat" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const aryan = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "Golang", "C++"],
+    askMeAbout: ["web-dev", "tech", "backend", "cloud"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["Node", "Express"],
+            python: ["AWS Serverless with Py", "AWS Lambda"],
+            golang: ["Gin-Gonic"]
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "AWS EC2", "S3", "Cloudfront", "Serverless", "Lambda"],
+        databases: ["mongo", "MySql", "PostgreSQL", "dynamoDB"],
+        misc: ["Firebase", "Socket.IO", "Redis", "Kafka", "Microservices"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
@@ -73,7 +65,7 @@ const anmol = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+🌞 Morning                998 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 🌆 Daytime                1767 commits        ██████████░░░░░░░░░░░░░░░   40.66 % 
 🌃 Evening                1284 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
 🌙 Night                  537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
@@ -120,8 +112,6 @@ CSS                      6 repos             ██░░░░░░░░░�
 Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
-
-
 
 
  Last Updated on 26/03/2024 00:23:41 UTC
